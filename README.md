@@ -5,3 +5,5 @@ I'm currently a 4th year student at UofT, majoring in robotics engineering. I've
 I'm currently doing my undegrad thesis with the Middleware Systems Research Group, where I'm looking into the applications of natural language to SQL for root cause analysis.
 
 Feel free to check out my [website](https://yamho-jobs.github.io/) if you want!
+
+P.S. I lost access to my old GitHub account, so this is quite new.
